@@ -1,0 +1,45 @@
+
+age = 25
+shoe_size = 45
+
+print(f"My age is {age}, and shoe size {shoe_size}")
+
+has_access_card = False
+print(has_access_card)
+
+calcu_result = 50 +25 -10
+print(calcu_result)
+
+meat_pie = 13
+friends = 4
+
+modulo = meat_pies % friends
+print(modulo)
+
+num1 = 100
+num2 = 3
+
+calc = num1 / num2
+print(calcu)
+
+bottle = 5
+tank = 26
+calcu = 26 // 5
+print (calcu)
+
+compare = 200 == 200.00
+print(compare)
+
+data1 ="python"
+data2 ="python"
+notEqual = data1 != data2
+print(F"has laptop and internet: {{compare7}")
+
+
+has_laptop =True 
+has_internet = False
+
+one_to_be_true=has_laptop and has_internet
+print(one_to_be_true)
+
+print(not has_internet)

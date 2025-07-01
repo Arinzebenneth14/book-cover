@@ -10,7 +10,7 @@ is_logged_in = True
 print (is_logged_in)
 
 first_name = Ada
-last_name = Okoro
+last_name = Okonkwo
 
 concat = first_name +" "+ last_name
 print(concat)

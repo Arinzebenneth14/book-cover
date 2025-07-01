@@ -20,7 +20,7 @@ num1 = 100
 num2 = 3
 
 calc = num1 / num2
-print(calcu)
+print(calc)
 
 bottle = 5
 tank = 26
